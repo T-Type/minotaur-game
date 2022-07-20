@@ -1,9 +1,8 @@
-# team10
-This commit is our submission for M4.
+# Minotaur Game
 
 ### Notes
 
-- The game doesn't compile on Linux. Since we're using Mac and Windows only we didn't know it was a requirement to compile on Linux. Since the M3 feedback took a long time to reach us, we didn't have time to fix it even though we tried.
+- The game does not compile on Linux.
 
 ### Graphic assets
 * wall.png: <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
